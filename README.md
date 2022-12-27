@@ -62,7 +62,6 @@ Program:
 Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
 Developed by: vinush cv
 RegisterNumber: 22001897
-*/
 module expone (a,b,y1,y2,y3,y4,y5,y6,y7);
 input a,b;
 output y1,y2,y3,y4,y5,y6,y7;
@@ -74,8 +73,8 @@ nand (y5,a,b);
 nor (y6,a,b);
 xnor (y7,a,b);
 endmodule
-Logic symbol & Truthtable
-RTL realization
+*/
+
 Output:
 RTL
 ![expone](https://user-images.githubusercontent.com/113975318/209636600-100e4dc1-1616-4518-b242-06a497b1bc87.png)
