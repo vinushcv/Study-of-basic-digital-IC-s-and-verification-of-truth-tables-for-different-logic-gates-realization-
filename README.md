@@ -79,6 +79,9 @@ endmodule
 
 
 ### Output:
+Logic symbol & Truthtable
+![exp100](https://user-images.githubusercontent.com/113975318/210366529-6b00ecbc-8db8-44ab-aa78-79042b83ad75.jpg)
+
 RTL
 ![expone](https://user-images.githubusercontent.com/113975318/209636600-100e4dc1-1616-4518-b242-06a497b1bc87.png)
 
